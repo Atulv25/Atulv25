@@ -18,5 +18,5 @@ I'm a Data Analyst with a passion for Python, machine learning, and IoT. I love 
 - **Project 2**:  [](https://github.com/Atulv25/Smart-Ultrasonic-Humidifier ) - Smart Humidifier PCB For ATmega328P.
 
 ## 📞 Let's Connect:
-- [LinkedIn]((https://www.linkedin.com/in/atul-verma25/))
-- Email: [](atul25v@gmail.com)
+- [LinkedIn] https://www.linkedin.com/in/atul-verma25/
+- Email: atul25v@gmail.com
